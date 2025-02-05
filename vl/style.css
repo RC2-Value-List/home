@@ -13,10 +13,10 @@ body {
 
 .hl *{
 
-background-color: rgb(255,165,0,0.4) !important;
+color: rgb(255,165,0,) !important;
 }
 .ch *{
-background-color: rgb(0,255,0,0.4) !important;
+color: rgb(0,255,0,) !important;
 }
 
 :root {
